@@ -155,3 +155,43 @@
 .recipes__video-caption-text {
   margin: 0;
 }
+
+/* ----------------------- RESERVATION ---------------------- */
+
+.reservation {
+  background-color: #d9e7ff;
+  background-image: url(../images/background_reservation.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.reservation__title {
+}
+
+.reservation__form {
+}
+
+.form {
+}
+
+.form__fieldset {
+}
+
+.form__label {
+}
+
+.form__input {
+}
+
+.form__button {
+}
+
+.form__checkbox {
+}
+
+/* ----------------------- MENU ---------------------- */
+
+/* ----------------------- ABOUT ---------------------- */
+
+/* ----------------------- FOOTER ---------------------- */
