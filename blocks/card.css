@@ -1,0 +1,27 @@
+.card {
+  width: 540px;
+}
+
+.card__title {
+  margin: 0 0 32px;
+}
+
+.card__content {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card__list-item {
+  margin: 0 0 16px;
+  display: flex;
+}
+
+.card__list-item:last-of-type {
+  margin: 0;
+}
+
+.card__list-divider {
+  border-bottom: 1px solid #838383;
+  flex-grow: 1;
+}
