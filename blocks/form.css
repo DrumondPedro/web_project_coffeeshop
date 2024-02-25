@@ -60,6 +60,11 @@
   line-height: 20px;
 }
 
+.form__button:hover {
+  opacity: 70%;
+  cursor: pointer;
+}
+
 .form__button:focus {
   opacity: 70%;
 }
